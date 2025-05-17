@@ -1,2 +1,2 @@
 # Major_Project
-car price prediction using machine learning
+ vehicle price prediction system using machine learning techniques
